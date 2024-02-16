@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;beans.xml&apos; to &apos;Practice1Project/src/main/java/com.practice1project&apos;&#x0D;&#x0A;- Original project: &apos;PropertyFileAnotation&apos;&#x0D;&#x0A;- Destination element: &apos;Practice1Project/src/main/java/com.practice1project&apos;&#x0D;&#x0A;- Original element: &apos;beans.xml&apos;" description="Copy file" destination="=Practice1Project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.practice1project" element1="src/main/java/beans.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1691078090368" units="0" version="1.0"/>
+</session>
